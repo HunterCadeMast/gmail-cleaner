@@ -1,0 +1,25 @@
+{
+  "name": "gmail-cleaner",
+  "version": "1.0.0",
+  "description": "Cleaning program for Gmail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterCadeMast/gmail-cleaner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HunterCadeMast/gmail-cleaner/issues"
+  },
+  "homepage": "https://github.com/HunterCadeMast/gmail-cleaner#readme",
+  "dependencies": {
+    "googleapis": "^171.4.0",
+    "open": "^11.0.0"
+  }
+}
