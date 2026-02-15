@@ -23,3 +23,6 @@ A simple Node.js script that automatically moves **non-starred Gmail emails** to
 - Gmail API enabled in Google Cloud Console
 
 ---
+
+## Installation
+
