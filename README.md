@@ -26,3 +26,4 @@ A simple Node.js script that automatically moves **non-starred Gmail emails** to
 
 ## Installation
 
+To install, run the script and create a project on Google Cloud with the credentials.js file to authorize access to Gmail.
